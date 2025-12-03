@@ -1,4 +1,4 @@
-Professionally, I lead product & engineering at [atm.com](https://atm.com)
+Professionally, I lead engineering & product at [atm.com](https://atm.com)
 
 Personally, I work on data tools; some open source & some closed source
   - [Sidequery](https://sidequery.dev/) a macOS (and soon cloud!) data analysis and visualization tool with SQL notebooks & beautiful charts
