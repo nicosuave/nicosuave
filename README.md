@@ -1,5 +1,5 @@
 #### Professionally
-I lead engineering & product at [atm.com](https://atm.com)
+I lead engineering, data & product at [atm.com](https://atm.com)
 
 #### Personally
 I work on data tools; some open source & some closed source
