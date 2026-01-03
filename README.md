@@ -17,6 +17,6 @@ _Making analysis more reliable for both humans and machines is my passion!_
 - [poached](https://github.com/sidequery/poached): a utility extension for building IDEs on top of DuckDB
 - [yardstick](https://github.com/sidequery/yardstick): an implementation of Measures in SQL ([arXiv:2406.00251](https://arxiv.org/abs/2406.00251))
 
-#### AI Agent Addons
+#### AI Agent Tools
 - [memex](https://github.com/nicosuave/memex): a CLI and agent skill for indexing and searching Claude Code + Codex CLI transcripts.
 - [agentexport](https://github.com/nicosuave/agentexport): a CLI, agent skill & hosted API for exporting the current Claude Code + Codex CLI conversation to a public share URL. End to end encrypted!
