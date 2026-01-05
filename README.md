@@ -6,7 +6,7 @@ _Making analysis more reliable for both humans and machines is my passion!_
 
 #### Core Projects
 - [Sidemantic](https://github.com/sidequery/sidemantic) a multi-format metrics layer for Sidequery (and others!) to define reusable metrics to be used across analysis tools
-  - Supports metrics in LookML, MetricFlow, Cube, Superset, Rill, Omni, Boring Semantic Layer & Hex formats
+  - Supports metrics in LookML, MetricFlow, Cube, Superset, Rill, Omni, Boring Semantic Layer Snowflake Cortex, Hex & Malloy formats
   - Works with DuckDB, MotherDuck, PostgreSQL, BigQuery, Snowflake, ClickHouse, Databricks & Spark SQL
   
 - [Sidequery](https://sidequery.dev/): a web & macOS data analysis and visualization tool with SQL notebooks & beautiful charts
