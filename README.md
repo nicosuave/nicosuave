@@ -11,10 +11,11 @@ _Making analysis more reliable for both humans and machines is my passion!_
 #### Python Packages
 
 - [dlt-iceberg](https://github.com/sidequery/dlt-iceberg): a dlt destination for Iceberg REST catalogs (Nessie, Lakekeeper, Polaris, Glue)
-- [sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage): OpenLineage instrumentation for SQLMesh
 - [Sidemantic](https://github.com/sidequery/sidemantic) a multi-format metrics layer for Sidequery (and others!) to define reusable metrics to be used across analysis tools
   - Supports metrics in LookML, MetricFlow, Cube, Superset, Rill, Omni, Boring Semantic Layer Snowflake Cortex, Hex & Malloy formats
   - Works with DuckDB, MotherDuck, PostgreSQL, BigQuery, Snowflake, ClickHouse, Databricks & Spark SQL
+- [sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage): OpenLineage instrumentation for SQLMesh
+
 
 #### DuckDB extensions
 - [acp](https://github.com/sidequery/duckdb-acp): an [Agent Client Protocol](https://agentclientprotocol.com/) client that exposes a table function & parser extension to support querying with Claude Code, Codex, etc.
