@@ -1,10 +1,12 @@
 I lead engineering, data & product at [atm.com](https://atm.com)
 
-I also spend a lot of my time working on on data tools. I aim to open source as much from the Sidequery project as I reasonably can.
+I also spend a lot of my time working on on data tools
   
 - [Sidequery](https://sidequery.dev/)
   - a collaborative web & macOS data analysis and visualization tool with SQL notebooks & beautiful charts
     - Compatible with Claude Code, Codex CLI & Gemini CLI & your existing AI subscriptions
+- [pynb](https://pynb.app)
+  - a macOS native alterantive Python data notebook that is semi-compatible with Jupyter
 
 _Making analysis more reliable for both humans and machines is my passion!_
 
