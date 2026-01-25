@@ -27,3 +27,4 @@ _Making analysis more reliable for both humans and machines is my passion!_
 #### AI Agent Tools
 - [memex](https://github.com/nicosuave/memex): a CLI and agent skill for indexing and searching Claude Code + Codex CLI transcripts.
 - [agentexport](https://github.com/nicosuave/agentexport): a CLI, agent skill & hosted API for exporting the current Claude Code + Codex CLI conversation to a public share URL. End to end encrypted!
+- [ghostree](https://github.com/sidequery/ghostree/): a fork of Ghostty with git worktree management integrated
