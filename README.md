@@ -1,6 +1,4 @@
-I lead engineering, data & product at [atm.com](https://atm.com)
-
-I also spend a lot of my time working on on data tools
+I lead engineering, data & product at [atm.com](https://atm.com). I also work on on data tools for [Sidequery](https://sidequery.dev).
   
 - [Sidequery](https://sidequery.dev/)
   - a collaborative web & macOS data analysis and visualization tool with SQL notebooks & beautiful charts
