@@ -1,6 +1,6 @@
 I lead engineering, data & product at [atm.com](https://atm.com). I also work on on data tools for [Sidequery](https://sidequery.dev).
   
-- [Sidequery](https://sidequery.dev/)
+- [sqlnb](https://sqlnb.app/)
   - a collaborative web & macOS data analysis and visualization tool with SQL notebooks & beautiful charts
     - Compatible with Claude Code, Codex CLI & Gemini CLI & your existing AI subscriptions
 - [pynb](https://pynb.app)
