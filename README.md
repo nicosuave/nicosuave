@@ -4,8 +4,6 @@ I lead engineering, data & product at [atm.com](https://atm.com). I also build d
 
 _Making analysis more reliable for both humans and machines is my passion!_
 
----
-
 ### Apps
 
 | | Description |
@@ -14,15 +12,18 @@ _Making analysis more reliable for both humans and machines is my passion!_
 | **[pynb](https://pynb.app)** | Native macOS Python data notebook, partially compatible with Jupyter. Works with your Claude & ChatGPT subscriptions. |
 | **[mdnb](https://mdnb.app)** | Native macOS markdown editor with backlinks, tags, mermaid & more. |
 
----
+### Core Projects
+
+- **[Sidemantic](https://github.com/sidequery/sidemantic)** — a multi-format metrics layer for defining reusable metrics across analysis tools
+  - Formats: LookML, MetricFlow, Cube, Superset, Rill, Omni, Boring Semantic Layer, Snowflake Cortex, Hex & Malloy
+  - Engines: DuckDB, MotherDuck, PostgreSQL, BigQuery, Snowflake, ClickHouse, Databricks & Spark SQL
+
+### Other Projects
 
 <details>
 <summary><strong>Python Packages</strong></summary>
 
 - **[dlt-iceberg](https://github.com/sidequery/dlt-iceberg)** — a dlt destination for Iceberg REST catalogs (Nessie, Lakekeeper, Polaris, Glue)
-- **[Sidemantic](https://github.com/sidequery/sidemantic)** — a multi-format metrics layer for defining reusable metrics across analysis tools
-  - Formats: LookML, MetricFlow, Cube, Superset, Rill, Omni, Boring Semantic Layer, Snowflake Cortex, Hex & Malloy
-  - Engines: DuckDB, MotherDuck, PostgreSQL, BigQuery, Snowflake, ClickHouse, Databricks & Spark SQL
 - **[sqlmesh-openlineage](https://github.com/sidequery/sqlmesh-openlineage)** — OpenLineage instrumentation for SQLMesh
 
 </details>
@@ -36,7 +37,7 @@ _Making analysis more reliable for both humans and machines is my passion!_
 
 </details>
 
-<details open>
+<details>
 <summary><strong>AI Agent Tools</strong></summary>
 
 - **[memex](https://github.com/nicosuave/memex)** — CLI and agent skill for indexing and searching Claude Code + Codex CLI transcripts
